@@ -13,3 +13,4 @@ run:
 
 clean:
 	find . -type f \( -name "*.o" -o -name "*.a" -o -name "*_test" \) -exec rm -f {} +
+	
